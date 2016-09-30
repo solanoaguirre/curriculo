@@ -480,9 +480,12 @@ figure {
 @media screen and (max-width: 600px) {
 
   .fh5co-feature .fh5co-text p {
-      width: 80%;
+      width: 100%;
       font-size: 16px;
-
+  }
+  p{
+    width: 100%;
+    font-size: 16px;
   }
   .none{
     display: flex;
